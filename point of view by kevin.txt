@@ -1,0 +1,4 @@
+Estimasi pengerjaan project paling cepat 9 bulan, terdiri dari perkiraan:
+- Mempelajari flow pada program lama sekitar lebih kurang 2 bulan
+- Pengerjaan sekitar lebih kurang 5 bulan
+- Sisa waktu untuk testing dsb
