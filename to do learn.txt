@@ -1,2 +1,2 @@
-Stored Procedure
-Trigger
+Stored Procedure (MySQL)
+Trigger (MySQL)
