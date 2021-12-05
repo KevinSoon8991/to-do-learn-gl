@@ -1,2 +1,2 @@
-Stored Procedure
-Trigger
+Stored Procedure (SQL Server)
+Trigger (SQL Server)
