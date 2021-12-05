@@ -1,0 +1,9 @@
+Jurnal	=> OK
+Buku Besar	=>OK
+Neraca Lajur	=> OK
+Laporan Keuangan	
+1. Laporan Laba Rugi (disesuaikan dengan perusahaan)
+2. Laporan Neraca (ambil saldo akhir akun pada periode berjalan)
+3. Laporan Perubahan Modal => OK
+4. Laporan Arus Kas => OK
+Tutup Buku Bulanan dan Tahunan => OK
